@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Josefin+Sans:wght@600&display=swap');
+h4{
+	font-family: 'Abril Fatface', cursive;
+	font-size: 1.2rem;
+}
+#appointment-by {
+	margin-top: 35px;
+}
+
+#appointment-by span {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 1.25rem;
+}
+
+
+/*Appointment for*/
+#appointment-for {
+	margin-top: 35px;
+}
+
+#datepicker{width:180px; margin: 0 20px 20px 20px;}
+#datepicker > span:hover{cursor: pointer;}
